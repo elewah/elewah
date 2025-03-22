@@ -1,12 +1,62 @@
 <!-- <img src="https://raw.githubusercontent.com/elewah/elewah/output/snake.svg" alt="Snake animation" /> -->
 
-###
+# Hi there, I'm Elewah! 👋
+
+I'm a passionate software developer with a keen interest in open-source projects, web development, and cloud computing. I love to learn, experiment, and contribute to the tech community.
+
+## 🚀 Technologies & Tools
+
+- **Languages:** JavaScript, Python, TypeScript, Go
+- **Web Development:** React, Next.js, Node.js, Express
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Other Tools:** Git, GitHub Actions, CI/CD, Linux
+
+## 📈 GitHub Stats
+[![Elewah's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=elewah&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/elewah/github-readme-stats#gh-dark-mode-only)
+[![Elewah's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=elewah&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/elewah/github-readme-stats#gh-light-mode-only)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elewah/elewah/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elewah/elewah/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/elewah/elewah/output/github-contribution-grid-snake.svg" />
 </picture>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+## 🏆 Achievements
+
+- Contributed to several popular open-source projects
+- Created and maintained multiple personal projects with significant user engagement
+- Continuously learning and upskilling through online courses and community involvement
+
+## 🌱 Currently Learning
+
+- Advanced TypeScript
+- Serverless architecture
+- Machine learning basics
+
+## 💬 Let's Connect!
+
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me through any of the platforms mentioned above!
+## 📫 How to reach me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/abdelrahman-elewah/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/abdelrahman.elewah/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>  
+</div>
+
+###
+
+
 
 
 <!-- <div align="center">
@@ -62,21 +112,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div> -->
 
-###
 
-[![Elewah's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=elewah&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/elewah/github-readme-stats#gh-dark-mode-only)
-[![Elewah's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=elewah&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/elewah/github-readme-stats#gh-light-mode-only)
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/abdelrahman-elewah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/abdelrahman.elewah/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+
+
 
 
 ###
