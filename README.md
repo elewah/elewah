@@ -6,11 +6,16 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 🚀 Technologies & Tools
 
-- **Languages:** JavaScript, Python, TypeScript, Go
-- **Web Development:** React, Next.js, Node.js, Express
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Other Tools:** Git, GitHub Actions, CI/CD, Linux
+- **Programming Languages:** Python, C/C++, JavaScript
+- **Web Technologies:** REST APIs, React, HTML, CSS, Bootstrap
+- **Automation Tools:** Jenkins, GitLab CI/CD
+- **IoT Frameworks:** MQTT, IoT platforms
+- **Database Systems:** PostgreSQL, MongoDB
+- **DevOps Tools:** Docker, Kubernetes, Helm, Dev container
+- **Scripting:** Bash, Perl
+- **Development Environments:** GitHub, GitHub Actions Workflow, VS Code, Anaconda, PlatformIO
+- **LLM and Prompt Engineering:** LangChain, LangGraph, LangSmith, RAG
+
 
 ## 📈 GitHub Stats
 [![Elewah's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=elewah&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/elewah/github-readme-stats#gh-dark-mode-only)
