@@ -2,7 +2,21 @@
 
 # Hi there, I'm Elewah! 👋
 
-I'm a passionate software developer with a keen interest in open-source projects, web development, and cloud computing. I love to learn, experiment, and contribute to the tech community.
+👋 Hi there, I'm Abdelrahman Elewah — a Ph.D. in Electrical & Computer Engineering with deep expertise in AI, IoT, and real-time data systems.
+
+🔭 I design and deploy intelligent systems that bridge academic innovation with practical impact. My recent projects include:
+
+- 🛰️ [Localelive](https://github.com/SensorsConnect/IoT-Agentic-Search-Engine) – a real-time, agentic IoT search engine integrating LLMs and RAG to query 37,000+ live documents with natural language.
+- 🎬 [Story-to-Movie Recommender](https://github.com/elewah/Chatbot-Story-To-Movie) – a RAG-based chatbot that transforms your story into movie suggestions using GPT-3.5 and semantic search.
+- 🤖 [LoRA-GPT2 Classifier](https://github.com/elewah/Apply-Lightweight-Fine-Tuning-to-a-Foundation-Model) – fine-tuned GPT-2 using LoRA for efficient NLP, boosting AG News accuracy from 83.16% to 88.95%.
+- 📊 [RadViz-Plotly](https://github.com/elewah/RadViz-Plotly) – a Python package for high-dimensional data visualization in 2D/3D using interactive Plotly interfaces.
+
+☁️ I'm experienced in deploying production-grade systems on AWS using Docker, Traefik, and CI/CD pipelines.
+
+🌱 I’m always learning and contributing — from open-source tools to research publications — and love turning abstract ideas into scalable, useful software.
+
+📫 Let’s connect: [LinkedIn](https://linkedin.com/in/abdelrahman-elewah) | [Website](https://elewah.github.io) | [Google Scholar](https://scholar.google.ca/citations?user=qkBGxZYAAAAJ&hl=en)
+
 
 ## 🚀 Technologies & Tools
 
