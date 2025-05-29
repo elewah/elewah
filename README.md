@@ -39,11 +39,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 - Created and maintained multiple personal projects with significant user engagement
 - Continuously learning and upskilling through online courses and community involvement
 
-## 🌱 Currently Learning
 
-- Advanced TypeScript
-- Serverless architecture
-- Machine learning basics
 
 ## 💬 Let's Connect!
 
